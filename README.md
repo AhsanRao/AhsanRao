@@ -61,11 +61,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/46gkzccb9y8bp9a0htourqrzn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=46gkzccb9y8bp9a0htourqrzn)
 </div>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=46gkzccb9y8bp9a0htourqrzn)
