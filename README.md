@@ -63,3 +63,5 @@ Here are some ideas to get you started:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=46gkzccb9y8bp9a0htourqrzn)
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=46gkzccb9y8bp9a0htourqrzn&width={width})
