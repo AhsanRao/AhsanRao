@@ -1,29 +1,42 @@
-### Hi there 👋
+## Hi there 👋 I'm Muhammad Ahsan
 
-<!--
-**AhsanRao/AhsanRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Engineer | Django • React • Node.js • AWS  
+📍 Islamabad, Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AhsanRao/count.svg?"  />
-</div>
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsanRao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhsanRao&theme=dracula)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhsanRao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AhsanRao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+### 🛠 Tech Stack
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🔥 What I Do
+- Build scalable **Django & Node.js backends**
+- Craft clean **React / Nuxt frontends**
+- Design **cloud-native systems on AWS**
+- Work on **POS, analytics, RAG & SaaS platforms**
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: **raoahsan110@gmail.com**
+- 💼 LinkedIn: *(add link here)*
+- 🌐 Portfolio: *(optional)*
+
+---
+
+⭐️ *Always open to collaboration & interesting problems*
