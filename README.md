@@ -5,14 +5,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsanRao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhsanRao&theme=dracula)
-
----
-
 ### 🛠 Tech Stack
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
