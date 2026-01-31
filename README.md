@@ -26,8 +26,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: **raoahsan110@gmail.com**
-- 💼 LinkedIn: *(add link here)*
-- 🌐 Portfolio: *(optional)*
+- 💼 LinkedIn: **https://www.linkedin.com/in/ahsanrao**
 
 ---
 
