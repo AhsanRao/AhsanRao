@@ -9,7 +9,7 @@
 
 I build the backend and platform layer behind products: APIs, data pipelines, Kubernetes infrastructure, and LLM systems.
 
-- 🔭 Currently maintaining and enhancing **Mueen**, an Arabic-first LLM chat and RAG platform serving **10,000+ government users**
+- 🔭 Currently maintaining and enhancing an Arabic-first LLM chat and RAG product**
 - 📊 Previously led the data team at **Success.ai**, running an **800M+ record Elasticsearch** platform processing **20M+ leads/month**
 - ⚙️ Day to day: Kubernetes, GitLab CI/CD, LiteLLM, Milvus, Temporal, Keycloak, Python, and Node.js
 - 🎯 Open to **Backend, Platform, and AI/LLM Engineering** roles
@@ -75,7 +75,7 @@ I build the backend and platform layer behind products: APIs, data pipelines, Ku
 | Project | Description | Stack |
 |---|---|---|
 | **Kestrel** | Native macOS voice-first screen assistant. A hotkey captures the screen and your question, sends it to Claude via the Claude Code CLI, and speaks the answer back. Being extended to run voice-driven system actions through MCP. | Swift · Claude Code CLI · MCP |
-| [**AI Sales Funnel**](https://github.com/AhsanRao/ai-sales-funnel) | Automates the path from Facebook lead capture to payment, with GPT-4 Messenger conversations, Stripe payments, and Twilio SMS follow-ups. | Flask · OpenAI · Stripe · Twilio |
+| [**AI Sales Funnel**](https://github.com/AhsanRao/ai-sales-funnel) | Automates the path from Facebook lead capture to payment, with OpenAI-powered Messenger conversations, Stripe payments, and Twilio SMS follow-ups. | Flask · OpenAI API · Stripe · Twilio |
 | [**SimpleDB**](https://github.com/AhsanRao/SimpleDB-Development) | Django records management app for small businesses: clients, staff, inventory, and sales and donation tracking with reports and staff approval workflows. | Django · Docker · Gunicorn · Nginx |
 | [**Amazon Scraper**](https://github.com/AhsanRao/amazonScraper) | Scrapy product scraper with ScrapeOps user-agent rotation, realistic headers, proxy support, and monitoring. | Scrapy · Python |
 | [**Makeup Studio Portal**](https://github.com/AhsanRao/MakeupStudio-AdminPortal) | Booking and appointment management system with an admin portal. | Django · Python |
